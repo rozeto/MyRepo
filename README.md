@@ -1,1 +1,1 @@
-![im](https://github.com/rozeto/MyRepo/blob/main/CV%20Photo.png)
+<img src="https://your-image-url.type" width="100" height="100">
