@@ -1,6 +1,6 @@
 <table border="0" style="background-color: white;">
  <tr>
-    <td valign="top"><p><img src="https://gist.github.com/assets/5470345/0ebd95a2-9226-4355-8f95-975876eb06f0"; width="140px;" hight="120px;"></b></p></td>
+    <td valign="top"><p><img src="https://github.com/rozeto/MyRepo/blob/main/CV%20Photo.png"; width="140px;" hight="120px;"></b></p></td>
   <td><style="font-size: 10px" font-weight: normal;><p><b>ROZALINA TOTEVA</b></p><p>
 <b>Phone</b>: +359 887 631 328 | <b>Email</b>: rozalina.toteva@gmail.com<br>
 <b>Nationality</b>: Bulgarian | <b>Languages</b>: English - fluent, Bulgarian - native, German - intermediate<br>
